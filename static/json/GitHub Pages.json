@@ -1,0 +1,15 @@
+{
+  "className": "GitHub Pages",
+  "items": [
+    {
+      "name": "导航页",
+      "url": "https://r-ddz.github.io/view_nav/",
+      "desc": "导航页"
+    },
+    {
+      "name": "docsify文档",
+      "url": "https://r-ddz.github.io/view_docsify/",
+      "desc": "docsify文档"
+    }
+  ]
+}

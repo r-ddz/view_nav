@@ -3,6 +3,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     try {
         const files = [
             '常用',
+            'GitHub Pages',
             '程序员',
             '资源',
             '路由器'
