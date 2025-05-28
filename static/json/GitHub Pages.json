@@ -9,7 +9,8 @@
     {
       "name": "docsify文档",
       "url": "https://r-ddz.github.io/view_docsify/",
-      "desc": "docsify文档"
+      "desc": "docsify文档",
+      "icon": "https://r-ddz.github.io/view_docsify/favicon.ico"
     }
   ]
 }
