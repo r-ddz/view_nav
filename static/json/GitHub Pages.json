@@ -5,7 +5,7 @@
       "name": "导航页",
       "url": "https://r-ddz.github.io/view_nav/",
       "desc": "导航页",
-      "icon": "https://github.githubassets.com/favicons/favicon.svg"
+      "icon": "https://github.com/favicon.ico"
     },
     {
       "name": "docsify文档",
@@ -17,7 +17,7 @@
       "name": "view_test",
       "url": "https://r-ddz.github.io/view_test/",
       "desc": "view_test",
-      "icon": "https://github.githubassets.com/favicons/favicon.svg"
+      "icon": "https://github.com/favicon.ico"
     }
   ]
 }
