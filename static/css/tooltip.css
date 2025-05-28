@@ -1,0 +1,44 @@
+.tooltip {
+    position: absolute;
+    bottom: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0,0,0,0.8);/* 修改背景颜色 */
+    color: white;/* 修改文字颜色 */
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 12px;/* 调整字号 */
+    line-height: 1.4;
+    width: 220px;/* 调整最大宽度 */
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16); /* 添加阴影 */
+    text-align: left;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+.tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.8) transparent transparent transparent;
+}
+
+.nav-item:hover .tooltip {
+    opacity: 1;
+    visibility: visible;
+    transition-delay: 0.3s; /* 悬停0.3秒后显示 */
+}
+/* 响应式优化（移动端显示） */
+@media (max-width: 768px) {
+    .tooltip {
+        width: 180px;
+        font-size: 11px;
+    }
+}
