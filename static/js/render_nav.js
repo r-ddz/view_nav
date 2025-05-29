@@ -4,6 +4,8 @@ window.addEventListener('DOMContentLoaded', async () => {
         const files = [
             '常用',
             'GitHub Pages',
+            '开源项目',
+            '收藏',
             '程序员',
             '资源',
             '路由器'
