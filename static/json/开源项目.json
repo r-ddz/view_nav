@@ -110,6 +110,21 @@
       "name": "screw 简洁好用的数据库表结构文档生成工具",
       "url": "https://gitee.com/leshalv/screw",
       "desc": "简洁好用的数据库表结构文档工具，支持MySQL/MariaDB/SqlServer/Oracle/PostgreSQL/TIDB/CacheDB 数据库。引入依赖即可使用"
+    },
+    {
+      "name": "gkd 李跳跳替代",
+      "url": "https://github.com/gkd-kit/gkd",
+      "desc": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 "
+    },
+    {
+      "name": "gkd热度最高的三方源",
+      "url": "https://github.com/AIsouler/GKD_subscription",
+      "desc": "复制以下任意一个链接到 GKD 即可使用本订阅规则。npmmirror源（大陆用户推荐）：https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5。GitHub源：https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5"
+    },
+    {
+      "name": "gkd 下载及文档",
+      "url": "https://gkd.li/guide/",
+      "desc": "gkd 下载及文档"
     }
   ]
 }
