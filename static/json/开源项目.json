@@ -125,6 +125,11 @@
       "name": "gkd 下载及文档",
       "url": "https://gkd.li/guide/",
       "desc": "gkd 下载及文档"
+    },
+    {
+      "name": "Webstack网址导航",
+      "url": "https://github.com/WebStackPage/WebStackPage.github.io",
+      "desc": "Demo: ➡ www.webstack.cc"
     }
   ]
 }
