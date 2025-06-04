@@ -130,6 +130,11 @@
       "name": "Webstack网址导航",
       "url": "https://github.com/WebStackPage/WebStackPage.github.io",
       "desc": "Demo: ➡ www.webstack.cc"
+    },
+    {
+      "name": "Motrix 下载器",
+      "url": "https://github.com/agalwood/Motrix",
+      "desc": "Motrix 下载器"
     }
   ]
 }
