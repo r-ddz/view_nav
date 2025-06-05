@@ -135,6 +135,21 @@
       "name": "Motrix 下载器",
       "url": "https://github.com/agalwood/Motrix",
       "desc": "Motrix 下载器  官网：https://motrix.app/zh-CN"
+    },
+    {
+      "name": "nginxWebUI Nginx网页管理工具",
+      "url": "https://github.com/cym1102/nginxWebUI",
+      "desc": "Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群"
+    },
+    {
+      "name": "nginxWebUI Nginx网页管理工具",
+      "url": "https://gitee.com/cym1102/nginxWebUI",
+      "desc": "Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群"
+    },
+    {
+      "name": "nginx-proxy-manager Nginx网页管理工具",
+      "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+      "desc": "用于管理Nginx代理主机的Docker容器，具有简单，强大的界面"
     }
   ]
 }
