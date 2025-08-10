@@ -150,6 +150,11 @@
       "name": "nginx-proxy-manager Nginx网页管理工具",
       "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
       "desc": "用于管理Nginx代理主机的Docker容器，具有简单，强大的界面"
+    },
+    {
+      "name": "OpenList 开源的AList项目",
+      "url": "https://github.com/OpenListTeam/OpenList",
+      "desc": "开源的AList项目，AList卖掉之后的替代"
     }
   ]
 }
